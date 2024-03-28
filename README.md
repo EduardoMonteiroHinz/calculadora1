@@ -10,7 +10,7 @@ if opcao_de_operacao == 5:
 elif opcao_de_operacao == 1:
     print(f"{numero1} + {numero2} =", numero1 + numero2)
 elif opcao_de_operacao == 2:
-    print(f"{numero1} + {numero2} =", numero1 - numero2)
+    print(f"{numero1} - {numero2} =", numero1 - numero2)
 elif opcao_de_operacao ==  3:
     print(f"{numero1} x {numero2} =", numero1 * numero2)
 elif opcao_de_operacao == 4:
